@@ -1,1 +1,1 @@
-# FizzBuzzHackerRank
+# Merge2Arrays
